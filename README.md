@@ -38,7 +38,7 @@ A modelagem inclui tabelas para **Clientes**, **Veículos**, **Equipes**, **Mec�
    ```bash
    git clone (https://github.com/thiagokovski/ecommerce/blob/main/ecommerce)
    ```
-2. **Abra** o arquivo `script_criacao_tabelas.sql` (ou equivalente) em uma ferramenta como MySQL Workbench ou no terminal MySQL.
+2. **Abra** o arquivo em uma ferramenta como MySQL Workbench ou no terminal MySQL.
 3. **Execute** o script para criar o banco de dados e as tabelas.
 4. **Configure** sua aplicação ou scripts de teste para se conectar ao banco de dados criado e iniciar as operações (inserir clientes, veículos, etc.).
 
